@@ -62,13 +62,13 @@ margin-top: 15%;
 
 #browse-collection:hover{
 background-color: blanchedalmond;
-transform: scale(1.5);
+transform: scale(1.2);
 cursor: default;
 
 }
 #order-now:hover{
     background-color: blanchedalmond;
-    transform: scale(1.5);
+    transform: scale(1.2);
     cursor: default;
     
     }
